@@ -2,4 +2,4 @@
 
 ![][1]  
 
-[1]: video-bg.jpg
+[1]: Integrated-Space-Plan.jpg 
